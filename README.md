@@ -1,2 +1,3 @@
-# PythonFromZero
-Jupyter Notebooks for learning Python from scratch at University of Greifswald
+# pyzero
+
+Acknowledgement: We thank Fabian Wilde for originally composing these course materials!
